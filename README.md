@@ -86,8 +86,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Acknowledgments:
 
-Special thanks to [name] for providing the dataset used in this project.
+Special thanks to[Nitish Singh](https://github.com/campusx-official) for providing the dataset used in this project.
 
 ---
 
-Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. For any inquiries or support, please contact [email address].
+Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. For any inquiries or support, please contact [mkshitij1763@gmail.com].
