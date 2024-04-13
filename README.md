@@ -74,7 +74,7 @@ This project implements a machine learning model to classify emails or SMS messa
 
 ### Contributors:
 
-- [Kshitij Meshram]([https://github.com/yourusername](https://github.com/mkshitij1763))
+- [Kshitij Meshram]((https://github.com/mkshitij1763))
 
 ---
 
